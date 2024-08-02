@@ -19,3 +19,4 @@ public class forExample {
         obj.genTable(i);
     }
 }
+//raman ke code change kar rha hu
